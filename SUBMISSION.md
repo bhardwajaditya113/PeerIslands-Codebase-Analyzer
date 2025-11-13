@@ -326,6 +326,6 @@ I'm ready to discuss:
 
 ---
 
-**Repository:** https://github.com/abhijita2017/PeerIslands-Codebase-Analyzer  
+**Repository:** https://github.com/bhardwajaditya113/PeerIslands-Codebase-Analyzer  
 **Demo:** Ready for live demonstration  
 **Questions:** Happy to answer any questions!

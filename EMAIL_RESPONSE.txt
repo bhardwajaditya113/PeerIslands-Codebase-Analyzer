@@ -6,7 +6,7 @@ Thank you for the opportunity to work on this interesting coding assignment. I h
 
 ## 📦 Submission Details
 
-**GitHub Repository:** https://github.com/abhijita2017/PeerIslands-Codebase-Analyzer
+**GitHub Repository:** https://github.com/bhardwajaditya113/PeerIslands-Codebase-Analyzer
 
 **Key Deliverables:**
 1. ✅ Complete Python-based codebase analysis tool using LLM
@@ -93,7 +93,7 @@ Best regards,
 ---
 
 **Links:**
-- Repository: https://github.com/abhijita2017/PeerIslands-Codebase-Analyzer
+- Repository: https://github.com/bhardwajaditya113/PeerIslands-Codebase-Analyzer
 - Analysis Results (JSON): [Link in repo]/output/analysis_results_20251113_120125.json
 - Summary (Text): [Link in repo]/output/analysis_summary_20251113_120125.txt
 - Documentation: See SUBMISSION.md in repository
